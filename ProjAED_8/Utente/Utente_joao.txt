@@ -1,0 +1,13 @@
+
+Nome: joao
+Password: joao
+Sexo: m
+Idade: 32
+Localidade: viana
+Telefone: 6437
+Nº de Utente: 122222
+Problema de Saúde: Covid-19
+Situação Clínica: casa
+Data da 1ºConsulta: 2/2/2014
+Data da Ultima Consulta: 2/2/2020
+Data da Proxima Consulta: 2/2/2020

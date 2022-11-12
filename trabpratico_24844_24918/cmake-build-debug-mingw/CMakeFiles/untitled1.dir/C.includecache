@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LENOVO/Downloads/untitled1/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+locale.h
+-
+unistd.h
+-
+time.h
+-
+main.h
+C:/Users/LENOVO/Downloads/untitled1/main.h
+
+C:/Users/LENOVO/Downloads/untitled1/main.h
+

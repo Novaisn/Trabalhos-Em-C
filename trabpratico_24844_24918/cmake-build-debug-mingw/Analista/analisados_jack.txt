@@ -1,0 +1,34 @@
+Creditos Analisados por Jack:
+
+RuiMiguel
+Casa
+PT12424234523
+25000
+maxima
+11/6/2021
+20:30:12
+ACEITE
+
+A casa cobre o credito mais os juros
+
+Francisco
+Barco
+PT324235535
+1500
+minima
+12/6/2021
+20:53:38
+ACEITE
+
+E um bom barco
+
+Joao
+Carro
+PT24234324234
+1500
+minima
+12/6/2021
+21:28:34
+REJEITADO
+
+Credito demasiado baixo

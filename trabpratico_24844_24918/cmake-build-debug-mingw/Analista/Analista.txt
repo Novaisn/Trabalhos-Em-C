@@ -1,0 +1,7 @@
+Analistas Registrados no Sistema:
+
+Utilizador: jack
+Nome: Jack
+
+Utilizador: diogo.g
+Nome: Diogo

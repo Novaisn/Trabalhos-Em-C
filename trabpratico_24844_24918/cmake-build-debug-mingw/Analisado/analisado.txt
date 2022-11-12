@@ -1,0 +1,33 @@
+
+Joao
+Carro
+PT24234324234
+1500
+minima
+REJEITADO
+Credito demasiado baixo
+
+RuiMiguel
+Casa
+PT12424234523
+25000
+maxima
+ACEITE
+A casa cobre o credito mais os juros
+
+Francisco
+Barco
+PT324235535
+1000
+minima
+ACEITE
+E um bom barco
+
+AfonsoSilva
+Barco
+PT4353457
+12500
+maxima
+ACEITE
+
+E um belo Barco
